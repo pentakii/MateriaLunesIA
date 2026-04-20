@@ -22,14 +22,14 @@ Los enemigos utilizan un sistema de percepción basado en distancia, ángulo de 
 Esto permite que los agentes pierdan de vista al jugador si este se esconde detrás de muros o columnas del castillo
 
 
-Máquina de Estados Finitos (FSM) - Esqueleto:
+Máquina de Estados Finitos (FSM) (Denis Mayan) - Esqueleto:
 Gestiona el comportamiento del Esqueleto mediante 4 estados diferenciables: Patrol (patrulla), Pursuit (persecución), Attack (ataque) y Flee (huida)
 
 
 Las transiciones son dinámicas; por ejemplo, el enemigo huye si su vida es menor al 25% o ataca si la distancia es mínima
 
 
-Árbol de Decisiones (Decision Tree) - Araña de Élite:
+Árbol de Decisiones (Decision Tree)  (Benjamin Bianco) - Araña de Élite:
 Implementa una toma de decisiones jerárquica y más compleja que la FSM
 
 
