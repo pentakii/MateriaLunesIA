@@ -12,6 +12,7 @@ Mouse: Rotación de la cámara (mirar).
 Espacio: Saltar.
 Clic Izquierdo: Atacar con la espada
 .
+
 Sistemas de IA Implementados 
 En esta instancia aunque no hay condicion de victoria, el proyecto integra sistemas de percepción y toma de decisiones que permiten comportamientos reales y observables.
 :
