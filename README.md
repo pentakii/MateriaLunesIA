@@ -11,9 +11,14 @@ con pociones.
 
 Controles Básicos
 WASD: Movimiento del personaje.
+
 Mouse: Rotación de la cámara (mirar).
+
 Espacio: Saltar.
+
 Clic Izquierdo: Atacar con la espada
+
+Tecla E: Interactuar(solo con la puerta por ahora)
 
 
 Sistemas de IA Implementados 
