@@ -6,8 +6,7 @@ Dungeon Crawler de acción en primera persona y se incluira opcion de tercera pe
 
 Objetivo del Juego
 
-El jugador asume el papel de un caballero que debe sobrevivir y limpiar las salas de un castillo infectado, derrotando enemigos mediante el combate cuerpo a cuerpo mientras gestiona su propia salud
-con pociones.
+El jugador asume el papel de un caballero que debe sobrevivir y limpiar las salas de un castillo infectado, derrotando enemigos mediante el combate cuerpo a cuerpo mientras gestiona su propia salud.
 
 Controles Básicos
 WASD: Movimiento del personaje.
