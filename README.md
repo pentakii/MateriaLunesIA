@@ -1,5 +1,5 @@
 Proyecto (Entrega 1): Dungeon Knight 
-Género
+Genero
 Dungeon Crawler de acción en primera persona y se incluira opcion de tercera persona.
 Objetivo del Juego
 
@@ -27,7 +27,7 @@ Las transiciones son dinámicas; por ejemplo, el enemigo huye si su vida es meno
 Árbol de Decisiones (Decision Tree) - Araña de Élite:
 Implementa una toma de decisiones jerárquica y más compleja que la FSM
 .
-La araña evalúa constantemente condiciones (¿Veo al jugador? ¿Tengo poca vida? ¿Estoy en rango?) para ejecutar acciones como deambular (Wander), perseguir o atacar
+La araña evalua constantemente condiciones (¿Veo al jugador? ¿Tengo poca vida? ¿Estoy en rango?) para ejecutar acciones como deambular (Wander), perseguir o atacar
 .
 Comportamientos de Movimiento (Steering Behaviours):
 Se han integrado algoritmos de movimiento local para que los agentes se desplacen en busca del jugador, y asi poder atacarlo.
@@ -37,3 +37,6 @@ Seek: Para perseguir al jugador
 Flee: Para escapar cuando la salud es baja
 .
 Wander: Para que la araña explore el entorno de forma aleatoria y natural
+
+Identidad Visual y Estética
+El proyecto mantiene una estética medieval coherente, utilizando modelos de personajes (caballero, esqueletos, arañas) y entornos de mazmorra que responden a una misma lógica visual.
