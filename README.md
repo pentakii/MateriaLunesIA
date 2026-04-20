@@ -13,7 +13,7 @@ Espacio: Saltar.
 Clic Izquierdo: Atacar con la espada
 .
 Sistemas de IA Implementados 
-En esta instancia, el proyecto integra sistemas de percepción y toma de decisiones que permiten comportamientos reales y observables
+En esta instancia aunque no hay condicion de victoria, el proyecto integra sistemas de percepción y toma de decisiones que permiten comportamientos reales y observables.
 :
 Línea de Visión (Line of Sight - LoS):
 Los enemigos utilizan un sistema de percepción basado en distancia, ángulo de visión y detección de obstáculos mediante Raycast
