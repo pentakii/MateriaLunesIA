@@ -1,4 +1,4 @@
-Proyecto (Entrega 1): Dungeon Knight 
+Proyecto (Entrega 1): The Knight Adventure
 
 Genero
 
