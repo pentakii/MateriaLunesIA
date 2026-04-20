@@ -1,6 +1,8 @@
 Proyecto (Entrega 1): Dungeon Knight 
 Genero
+
 Dungeon Crawler de acción en primera persona y se incluira opcion de tercera persona.
+
 Objetivo del Juego
 
 El jugador asume el papel de un caballero que debe sobrevivir y limpiar las salas de un castillo infectado, derrotando enemigos mediante el combate cuerpo a cuerpo mientras gestiona su propia salud
